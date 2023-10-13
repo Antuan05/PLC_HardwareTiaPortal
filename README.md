@@ -1,0 +1,2 @@
+# PLC_HardwareTiaPortal
+TiaPortal_basicHardware
